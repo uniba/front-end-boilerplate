@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -euvx
+
+trap 'kill $(jobs -p)' EXIT
+
+mkdir -p ./.tmp/stylesheets
+mkdir -p ./.tmp/javascripts
+
+npm run test -- --watch &
+npm run lint:scripts -- --watch &
+npm run watch:styles &
+npm run watch:scripts -- --verbose &
+npm run serve &
+
+wait

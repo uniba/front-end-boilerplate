@@ -1,0 +1,23 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "semi": [2, "always"],
+    "space-before-function-paren": [2, "never"],
+    "arrow-parens": [2, "always"]
+  },
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+  "extends": "standard",
+  "ecmaFeatures": {
+    "modules": true,
+    "experimentalObjectRestSpread": true
+  },
+  "parserOptions": {
+      "sourceType": "module"
+  },
+  "plugins": [
+  ]
+}
