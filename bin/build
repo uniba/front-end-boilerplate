@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -euvx
+
+mkdir -p ./build/stylesheets
+mkdir -p ./build/javascripts
+
+cp -rv public/* build
+
+npm run test
+npm run lint:scripts
+npm run build:scripts
+npm run build:styles
