@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/uniba/front-end-boilerplate.svg?branch=master)](https://travis-ci.org/uniba/front-end-boilerplate)
+
 # front-end boilerplate
 
 CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.js`.
