@@ -41,6 +41,7 @@
     "eslint-watch": "^2.1.10",
     "express": "^4.13.4",
     "licensify": "^3.1.0",
+    "morgan": "^1.7.0",
     "postcss-browser-reporter": "^0.4.0",
     "postcss-cli": "^2.5.1",
     "postcss-cssnext": "^2.5.2",
