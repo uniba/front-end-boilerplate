@@ -42,7 +42,7 @@
     "express": "^4.13.4",
     "licensify": "^3.1.1",
     "morgan": "^1.7.0",
-    "postcss-browser-reporter": "^0.4.0",
+    "postcss-browser-reporter": "^0.5.0",
     "postcss-cli": "^2.5.2",
     "postcss-cssnext": "^2.5.2",
     "postcss-devtools": "^1.0.0",
