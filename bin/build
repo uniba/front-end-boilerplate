@@ -2,6 +2,8 @@
 
 set -euvx
 
+export NODE_ENV=production
+
 mkdir -p ./build/stylesheets
 mkdir -p ./build/javascripts
 

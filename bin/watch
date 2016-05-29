@@ -2,6 +2,8 @@
 
 set -euvx
 
+export NODE_ENV=development
+
 trap 'kill $(jobs -p)' EXIT
 
 mkdir -p ./.tmp/stylesheets
