@@ -16,7 +16,7 @@
     "experimentalObjectRestSpread": true
   },
   "parserOptions": {
-      "sourceType": "module"
+    "sourceType": "module"
   },
   "plugins": [
   ]
