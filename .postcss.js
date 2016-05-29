@@ -1,14 +1,18 @@
 
+const plugins = ([
+  'postcss-devtools',
+  'precss',
+  'rucksack-css',
+  'postcss-cssnext',
+  'postcss-browser-reporter',
+  'postcss-reporter'
+]).filter((plugin) => {
+  return (plugin !== 'postcss-devtools' && process.env.NODE_ENV === 'production');
+});
+
 module.exports = {
   parser: 'sugarss',
-  use: [
-    'postcss-devtools',
-    'precss',
-    'rucksack-css',
-    'postcss-cssnext',
-    'postcss-browser-reporter',
-    'postcss-reporter'
-  ],
+  use: plugins,
   'postcss-cssnext': {
     autoprefixer: {
       browsers: [
