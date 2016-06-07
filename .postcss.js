@@ -7,7 +7,7 @@ const plugins = ([
   'postcss-browser-reporter',
   'postcss-reporter'
 ]).filter((plugin) => {
-  if (process.env.NODE_ENV !== 'production') return true;
+  if (process.env.NODE_ENV !== 'build') return true;
   return plugin !== 'postcss-devtools';
 });
 
