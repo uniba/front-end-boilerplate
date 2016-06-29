@@ -1,4 +1,6 @@
 
+@import './sub.css' /* https://github.com/postcss/postcss-import */
+
 body
   font-size: responsive /* http://simplaio.github.io/rucksack/docs/#responsive-type */
   color: rebeccapurple /* http://cssnext.io/features/#rebeccapurple-color */
@@ -23,5 +25,3 @@ body
 
 @mixin icon youtube, red
   background: url(youtube.png)
-
-@import './sub.css' /* https://github.com/jonathantneal/postcss-partial-import */
