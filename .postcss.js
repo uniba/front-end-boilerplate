@@ -9,7 +9,9 @@ const plugins = ([
   'postcss-reporter'
 ]).filter((plugin) => {
   if (process.env.NODE_ENV !== 'build') return true;
-  return plugin !== 'postcss-devtools';
+  return (plugin !== 'postcss-devtools')
+    && (plugin !== 'postcss-browser-reporter')
+    && (plugin !== 'postcss-reporter');
 });
 
 module.exports = {
