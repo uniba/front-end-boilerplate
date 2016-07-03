@@ -3,7 +3,9 @@
   "rules": {
     "semi": [2, "always"],
     "space-before-function-paren": [2, "never"],
-    "arrow-parens": [2, "always"]
+    "arrow-parens": [2, "always"],
+    "generator-star-spacing": 0,
+    "babel/generator-star-spacing": 1
   },
   "env": {
     "es6": true,
@@ -19,5 +21,6 @@
     "sourceType": "module"
   },
   "plugins": [
+    "babel"
   ]
 }
