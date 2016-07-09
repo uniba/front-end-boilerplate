@@ -17,6 +17,8 @@ CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.
 - [PostCSS](http://postcss.org/)
   - [`sugarss`](https://github.com/postcss/sugarss) for parsing
   - [`precss`](https://github.com/jonathantneal/precss)
+  - [`stylelint`](http://stylelint.io/)
+    - [`stylelint-config-standard`](https://github.com/stylelint/stylelint-config-standard)
   - [`rucksack-css`](https://simplaio.github.io/rucksack/)
   - [`postcss-cssnext`](https://github.com/MoOx/postcss-cssnext)
 - [Babel](https://babeljs.io/)
