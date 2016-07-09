@@ -55,7 +55,7 @@
     "rucksack-css": "^0.8.6",
     "sugarss": "^0.1.4",
     "supervisor": "^0.11.0",
-    "uglify-js": "^2.6.4",
+    "uglify-js": "^2.7.0",
     "watchify": "^3.7.0"
   }
 }
