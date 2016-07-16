@@ -23,7 +23,7 @@ CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.
   - [`postcss-cssnext`](https://github.com/MoOx/postcss-cssnext)
 - [Babel](https://babeljs.io/)
   - [`babel-preset-es2015`](https://babeljs.io/docs/plugins/preset-es2015/)
-  - [`babel-preset-stage-3`](https://babeljs.io/docs/plugins/preset-stage-3/) for [`async` / `await`](https://github.com/tc39/ecmascript-asyncawait)
+  - [`babel-preset-stage-3`](https://babeljs.io/docs/plugins/preset-stage-3/)
 - [ESLint](http://eslint.org/)
   - [`eslint-config-standard`](https://github.com/feross/eslint-config-standard) + semi-colon
 - [AVA](https://github.com/sindresorhus/ava)
