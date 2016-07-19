@@ -50,7 +50,7 @@
     "postcss-reporter": "^1.4.1",
     "precss": "^1.4.0",
     "rucksack-css": "^0.8.6",
-    "stylelint": "^7.0.2",
+    "stylelint": "^7.0.3",
     "stylelint-config-standard": "^11.0.0",
     "sugarss": "^0.1.4",
     "supervisor": "^0.11.0",
