@@ -52,7 +52,7 @@
     "rucksack-css": "^0.8.6",
     "stylelint": "^7.0.3",
     "stylelint-config-standard": "^11.0.0",
-    "sugarss": "^0.1.4",
+    "sugarss": "^0.1.5",
     "supervisor": "^0.11.0",
     "uglify-js": "^2.7.0",
     "watchify": "^3.7.0"
