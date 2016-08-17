@@ -54,7 +54,7 @@
     "stylelint-config-standard": "^12.0.0",
     "sugarss": "^0.1.5",
     "supervisor": "^0.11.0",
-    "uglify-js": "^2.7.2",
+    "uglify-js": "^2.7.3",
     "watchify": "^3.7.0"
   }
 }
