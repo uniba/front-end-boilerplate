@@ -33,7 +33,7 @@
     "babelify": "^7.3.0",
     "browserify": "^13.1.0",
     "cssnano-cli": "^1.0.4",
-    "eslint": "^3.3.1",
+    "eslint": "^3.4.0",
     "eslint-config-standard": "^6.0.0",
     "eslint-plugin-babel": "^3.3.0",
     "eslint-plugin-promise": "^2.0.1",
