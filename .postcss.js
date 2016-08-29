@@ -3,6 +3,7 @@ const plugins = ([
   'postcss-devtools',
   'postcss-import',
   'precss',
+  'stylefmt',
   'stylelint',
   'rucksack-css',
   'postcss-cssnext',
