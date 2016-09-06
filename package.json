@@ -42,7 +42,7 @@
     "morgan": "^1.7.0",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cli": "^2.6.0",
-    "postcss-cssnext": "^2.7.0",
+    "postcss-cssnext": "^2.8.0",
     "postcss-devtools": "^1.1.0",
     "postcss-import": "^8.1.2",
     "postcss-reporter": "^1.4.1",
