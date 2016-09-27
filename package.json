@@ -35,7 +35,7 @@
     "eslint-config-standard": "^6.0.1",
     "eslint-plugin-babel": "^3.3.0",
     "eslint-plugin-promise": "^2.0.1",
-    "eslint-plugin-standard": "^2.0.0",
+    "eslint-plugin-standard": "^2.0.1",
     "eslint-watch": "^2.1.14",
     "express": "^4.14.0",
     "licensify": "^3.1.2",
