@@ -3,9 +3,8 @@
   "rules": {
     "semi": [2, "always"],
     "space-before-function-paren": [2, "never"],
-    "generator-star-spacing": 0,
-    "babel/arrow-parens": [2, "always"],
-    "babel/generator-star-spacing": 1
+    "arrow-parens": [2, "always"],
+    "generator-star-spacing": [2, { "before": false, "after": true }]
   },
   "env": {
     "es6": true,
