@@ -3,5 +3,11 @@ node_js:
   - 6
   - 5
   - 4
+cache:
+  directories:
+    - ~/.yarn
+install:
+  - npm -g install yarn
+  - yarn
 script:
   - npm run build
