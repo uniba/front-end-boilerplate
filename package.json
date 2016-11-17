@@ -21,7 +21,7 @@
     ]
   },
   "devDependencies": {
-    "ava": "0.16.0",
+    "ava": "0.17.0",
     "babel-cli": "6.18.0",
     "babel-eslint": "7.1.0",
     "babel-plugin-transform-runtime": "6.15.0",
