@@ -5,7 +5,7 @@ const plugins = ([
   'precss',
   'stylefmt',
   'stylelint',
-  // 'rucksack-css',
+  'rucksack-css',
   'postcss-cssnext',
   'postcss-browser-reporter',
   'postcss-reporter'
