@@ -45,7 +45,7 @@
     "postcss-cssnext": "2.9.0",
     "postcss-devtools": "1.1.1",
     "postcss-import": "9.0.0",
-    "postcss-reporter": "2.0.0",
+    "postcss-reporter": "3.0.0",
     "precss": "1.4.0",
     "rucksack-css": "0.9.1",
     "stylefmt": "5.0.2",
