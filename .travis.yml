@@ -8,7 +8,7 @@ cache:
   directories:
     - ~/.yarn
 install:
-  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - npm -g install yarn
   - yarn
 script:
   - npm run build
