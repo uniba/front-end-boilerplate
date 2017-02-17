@@ -9,6 +9,7 @@
           "iOS >= 8"
         ]
       },
+      "modules": false,
       "useBuiltIns": true
     }],
     "stage-0"
