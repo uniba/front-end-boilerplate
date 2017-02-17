@@ -1,4 +1,7 @@
 
+import 'normalize.css';
+import '../stylesheets/app.css';
+
 import path from 'path';
 import sub from './sub';
 
