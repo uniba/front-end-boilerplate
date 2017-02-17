@@ -8,7 +8,8 @@
           "Android >= 4",
           "iOS >= 8"
         ]
-      }
+      },
+      "useBuiltIns": true
     }],
     "stage-0"
   ],
