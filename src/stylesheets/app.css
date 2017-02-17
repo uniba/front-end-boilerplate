@@ -1,27 +1,6 @@
 
-@import './sub.css' /* https://github.com/postcss/postcss-import */
+@import './sub.css'; /* https://github.com/postcss/postcss-import */
 
-body
-  font-size: responsive /* http://simplaio.github.io/rucksack/docs/#responsive-type */
-  color: rebeccapurple /* http://cssnext.io/features/#rebeccapurple-color */
-
-.box
-  clear: fix /* http://simplaio.github.io/rucksack/docs/#clearfix */
-  &.flex
-    display: flex
-
-/* https://github.com/postcss/postcss-mixins#postcss-mixins- */
-
-@define-mixin icon $network, $color: blue
-  .icon.is-$(network)
-    color: $color
-    @mixin-content
-  .icon.is-$(network):hover
-    color: white
-    background: $color
-
-@mixin icon twitter
-  background: url(twt.png)
-
-@mixin icon youtube, red
-  background: url(youtube.png)
+body {
+  color: rebeccapurple; /* http://cssnext.io/features/#rebeccapurple-color */
+}
