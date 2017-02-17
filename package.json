@@ -50,6 +50,7 @@
     "postcss-cssnext": "2.9.0",
     "postcss-devtools": "1.1.1",
     "postcss-import": "9.1.0",
+    "postcss-loader": "1.3.0",
     "postcss-reporter": "3.0.0",
     "style-loader": "0.13.1",
     "stylefmt": "5.1.2",
