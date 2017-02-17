@@ -2,7 +2,6 @@
 const plugins = ([
   'postcss-devtools',
   'postcss-import',
-  'stylefmt',
   'stylelint',
   'postcss-cssnext',
   'postcss-browser-reporter',
