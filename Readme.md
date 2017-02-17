@@ -19,7 +19,7 @@ CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.
     - [`stylelint-config-standard`](https://github.com/stylelint/stylelint-config-standard)
   - [`postcss-cssnext`](https://github.com/MoOx/postcss-cssnext)
 - [Babel](https://babeljs.io/)
-  - [`babel-preset-latest`](https://babeljs.io/docs/plugins/preset-latest/)
+  - [`babel-preset-env`](https://babeljs.io/docs/plugins/preset-env/)
   - [`babel-preset-stage-0`](https://babeljs.io/docs/plugins/preset-stage-0/)
 - [ESLint](http://eslint.org/)
   - [`eslint-config-standard`](https://github.com/feross/eslint-config-standard) + semi-colon

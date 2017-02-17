@@ -1,6 +1,16 @@
 {
   "presets": [
-    "latest",
+    ["env", {
+      "targets": {
+        "browsers": [
+          "last 2 versions",
+          "Explorer >= 9",
+          "Android >= 4",
+          "iOS >= 8"
+        ]
+      },
+      "loose": true
+    }],
     "stage-0"
   ],
   "plugins": [
