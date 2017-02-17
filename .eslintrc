@@ -22,7 +22,6 @@
     "sourceType": "module"
   },
   "plugins": [
-    "babel",
     "standard",
     "promise"
   ]
