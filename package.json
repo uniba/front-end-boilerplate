@@ -6,6 +6,8 @@
     "supervisor": "supervisor --exec ./node_modules/.bin/babel-node index.js",
     "test": "ava --source test",
     "lint:scripts": "esw",
+    "format:scripts": "eslint . --fix",
+    "format:styles": "stylefmt --recursive 'src/**/*.css'",
     "serve": "node index.js",
     "build": "bash bin/build",
     "clean": "bash bin/clean",
