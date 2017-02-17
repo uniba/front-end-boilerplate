@@ -36,7 +36,7 @@
     "eslint-plugin-babel": "4.0.1",
     "eslint-plugin-promise": "3.4.2",
     "eslint-plugin-standard": "2.0.1",
-    "eslint-watch": "2.1.14",
+    "eslint-watch": "3.0.0",
     "express": "4.14.1",
     "licensify": "3.1.2",
     "morgan": "1.8.1",
