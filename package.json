@@ -60,5 +60,8 @@
     "uglify-js": "2.7.5",
     "watchify": "3.9.0",
     "webpack": "2.2.1"
+  },
+  "dependencies": {
+    "normalize.css": "5.0.0"
   }
 }
