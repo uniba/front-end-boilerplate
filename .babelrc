@@ -8,8 +8,7 @@
           "Android >= 4",
           "iOS >= 8"
         ]
-      },
-      "loose": true
+      }
     }],
     "stage-0"
   ],
