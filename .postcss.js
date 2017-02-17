@@ -2,10 +2,8 @@
 const plugins = ([
   'postcss-devtools',
   'postcss-import',
-  'precss',
   'stylefmt',
   'stylelint',
-  'rucksack-css',
   'postcss-cssnext',
   'postcss-browser-reporter',
   'postcss-reporter'
@@ -17,7 +15,6 @@ const plugins = ([
 });
 
 module.exports = {
-  parser: 'sugarss',
   use: plugins,
   'postcss-cssnext': {
     autoprefixer: {
