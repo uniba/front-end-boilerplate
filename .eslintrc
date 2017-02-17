@@ -2,6 +2,8 @@
   "parser": "babel-eslint",
   "rules": {
     "semi": [2, "always"],
+    "no-extra-semi": 2,
+    "semi-spacing": [2, { "before": false, "after": true }],
     "space-before-function-paren": [2, "never"],
     "arrow-parens": [2, "always"],
     "generator-star-spacing": [2, { "before": false, "after": true }]
@@ -20,6 +22,8 @@
     "sourceType": "module"
   },
   "plugins": [
-    "babel"
+    "babel",
+    "standard",
+    "promise"
   ]
 }
