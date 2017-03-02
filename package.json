@@ -17,11 +17,6 @@
     "watch:scripts": "NODE_ENV=development webpack --progress --watch -d",
     "watch:styles": "postcss --config .postcss.js src/stylesheets/app.css --output ./.tmp/stylesheets/app.css --watch --map"
   },
-  "browserify": {
-    "transform": [
-      "babelify"
-    ]
-  },
   "devDependencies": {
     "ava": "0.18.1",
     "babel-cli": "6.23.0",
