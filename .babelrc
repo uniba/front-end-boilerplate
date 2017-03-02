@@ -9,11 +9,16 @@
           "iOS >= 8"
         ]
       },
+      "modules": false,
       "useBuiltIns": true
     }],
     "stage-0"
   ],
   "plugins": [
-    "transform-runtime"
+    ["transform-runtime", {
+      "helpers": true,
+      "polyfills": false,
+      "regenerator": true,
+    }]
   ]
 }
