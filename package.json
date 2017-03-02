@@ -31,7 +31,7 @@
     "eslint-loader": "1.6.1",
     "eslint-plugin-babel": "4.1.0",
     "eslint-plugin-promise": "3.5.0",
-    "eslint-plugin-standard": "2.1.0",
+    "eslint-plugin-standard": "2.1.1",
     "express": "4.15.0",
     "morgan": "1.8.1",
     "postcss-browser-reporter": "0.5.0",
