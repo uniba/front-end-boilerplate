@@ -14,7 +14,10 @@
     "node": true,
     "browser": true
   },
-  "extends": "standard",
+  "extends": [
+    "plugin:promise/recommended",
+    "standard"
+  ],
   "ecmaFeatures": {
     "modules": true,
     "experimentalObjectRestSpread": true
