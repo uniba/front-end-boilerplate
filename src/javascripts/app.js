@@ -1,6 +1,7 @@
 
 import 'normalize.css';
 import '../stylesheets/app.css';
+import 'babel-polyfill';
 
 import path from 'path';
 import sub from './sub';
