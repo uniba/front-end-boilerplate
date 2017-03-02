@@ -8,8 +8,6 @@ mkdir -p ./.tmp/stylesheets
 mkdir -p ./.tmp/javascripts
 
 npm run test -- --watch &
-npm run lint:scripts -- --watch &
-npm run watch:styles &
 npm run watch:scripts &
 npm run serve &
 

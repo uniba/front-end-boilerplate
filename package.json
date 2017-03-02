@@ -13,9 +13,7 @@
     "clean": "bash bin/clean",
     "watch": "bash bin/watch",
     "build:scripts": "NODE_ENV=production webpack --progress --bail -p",
-    "build:styles": "NODE_ENV=build postcss --config .postcss.js src/stylesheets/app.css | csso > build/stylesheets/app.css",
-    "watch:scripts": "NODE_ENV=development webpack --progress --watch -d",
-    "watch:styles": "postcss --config .postcss.js src/stylesheets/app.css --output ./.tmp/stylesheets/app.css --watch --map"
+    "watch:scripts": "NODE_ENV=development webpack --progress --watch -d"
   },
   "devDependencies": {
     "ava": "0.18.2",
