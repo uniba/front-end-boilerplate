@@ -39,7 +39,7 @@
     "eslint-plugin-promise": "3.5.0",
     "eslint-plugin-standard": "2.1.0",
     "eslint-watch": "3.0.0",
-    "express": "4.14.1",
+    "express": "4.15.0",
     "licensify": "3.1.2",
     "morgan": "1.8.1",
     "postcss-browser-reporter": "0.5.0",
