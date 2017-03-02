@@ -11,9 +11,7 @@ CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.
 
 ## Stack
 
-- [Browserify](http://browserify.org/)
-  - [`babelify`](https://github.com/babel/babelify)
-  - [`licensify`](https://github.com/twada/licensify)
+- [webpack](https://webpack.js.org/)
 - [PostCSS](http://postcss.org/)
   - [`stylelint`](http://stylelint.io/)
     - [`stylelint-config-standard`](https://github.com/stylelint/stylelint-config-standard)
