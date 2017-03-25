@@ -14,7 +14,7 @@ module.exports = {
 
   resolve: {
     modules: [
-      resolve('./node_modules')
+      './node_modules'
     ],
     alias: {
     }
