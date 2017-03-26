@@ -49,6 +49,6 @@
     "webpack-dev-middleware": "1.10.1"
   },
   "dependencies": {
-    "normalize.css": "5.0.0"
+    "normalize.css": "6.0.0"
   }
 }
