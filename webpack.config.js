@@ -2,7 +2,6 @@
 const resolve = require('path').resolve;
 const webpack = require('webpack');
 const cssnext = require('postcss-cssnext');
-const postcssConfig = require('./.postcss');
 
 module.exports = {
 
@@ -74,13 +73,6 @@ module.exports = {
   },
 
   plugins: [
-    new webpack.LoaderOptionsPlugin({
-      options: {
-        postcss: [
-          cssnext(postcssConfig['postcss-cssnext'])
-        ]
-      }
-    }),
     new webpack.ProvidePlugin({
     }),
     new webpack.DefinePlugin({
