@@ -3,6 +3,8 @@
 
 # front-end boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uniba/front-end-boilerplate.svg)](https://greenkeeper.io/)
+
 CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.js`.
 
 ## Pre-requirements
