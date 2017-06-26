@@ -20,7 +20,7 @@
     "babel-cli": "6.24.1",
     "babel-core": "^6.25.0",
     "babel-eslint": "7.2.3",
-    "babel-loader": "7.0.0",
+    "babel-loader": "7.1.0",
     "babel-plugin-transform-runtime": "6.23.0",
     "babel-preset-env": "^1.5.2",
     "babel-preset-stage-0": "6.24.1",
@@ -48,7 +48,7 @@
     "stylelint-config-standard": "16.0.0",
     "supervisor": "0.12.0",
     "webpack": "^3.0.0",
-    "webpack-dev-middleware": "1.10.2"
+    "webpack-dev-middleware": "1.11.0"
   },
   "dependencies": {
     "normalize.css": "7.0.0"
