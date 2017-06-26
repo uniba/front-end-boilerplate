@@ -1,9 +1,7 @@
 
-[![Build Status](https://travis-ci.org/uniba/front-end-boilerplate.svg?branch=master)](https://travis-ci.org/uniba/front-end-boilerplate)
+[![Build Status](https://travis-ci.org/uniba/front-end-boilerplate.svg?branch=master)](https://travis-ci.org/uniba/front-end-boilerplate) [![Greenkeeper badge](https://badges.greenkeeper.io/uniba/front-end-boilerplate.svg)](https://greenkeeper.io/)
 
 # front-end boilerplate
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/uniba/front-end-boilerplate.svg)](https://greenkeeper.io/)
 
 CLI based boilerplate for front-end. You don't need `Gruntfile.js` or `gulpfile.js`.
 
