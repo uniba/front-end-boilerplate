@@ -16,7 +16,7 @@
     "watch:scripts": "NODE_ENV=development webpack --progress --watch -d"
   },
   "devDependencies": {
-    "ava": "0.22.0",
+    "ava": "0.23.0",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
     "babel-eslint": "8.0.1",
