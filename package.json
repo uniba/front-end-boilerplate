@@ -40,7 +40,7 @@
     "postcss-cssnext": "3.0.2",
     "postcss-devtools": "1.1.1",
     "postcss-import": "11.0.0",
-    "postcss-loader": "2.0.9",
+    "postcss-loader": "2.0.10",
     "postcss-reporter": "5.0.0",
     "style-loader": "0.19.1",
     "stylefmt": "6.0.0",
