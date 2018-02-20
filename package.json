@@ -19,13 +19,13 @@
     "ava": "0.25.0",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
-    "babel-eslint": "8.2.1",
+    "babel-eslint": "8.2.2",
     "babel-loader": "7.1.2",
     "babel-plugin-transform-runtime": "6.23.0",
     "babel-preset-env": "1.6.1",
     "babel-preset-stage-0": "6.24.1",
     "babel-runtime": "6.26.0",
-    "eslint": "4.17.0",
+    "eslint": "4.18.0",
     "css-loader": "0.28.9",
     "eslint-config-standard": "10.2.1",
     "eslint-loader": "1.9.0",
@@ -44,11 +44,11 @@
     "postcss-reporter": "5.0.0",
     "style-loader": "0.20.2",
     "stylefmt": "6.0.0",
-    "stylelint": "8.4.0",
+    "stylelint": "9.0.0",
     "stylelint-config-standard": "18.1.0",
     "supervisor": "0.12.0",
     "webpack": "3.11.0",
-    "webpack-dev-middleware": "2.0.4"
+    "webpack-dev-middleware": "2.0.5"
   },
   "dependencies": {
     "normalize.css": "8.0.0"
