@@ -44,7 +44,7 @@
     "postcss-reporter": "5.0.0",
     "style-loader": "0.20.3",
     "stylefmt": "6.0.0",
-    "stylelint": "9.2.0",
+    "stylelint": "9.7.0",
     "stylelint-config-standard": "18.2.0",
     "supervisor": "0.12.0",
     "webpack": "4.6.0",
